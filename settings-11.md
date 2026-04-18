@@ -318,6 +318,15 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 
 #### 2.1 Getting Started
 
+`New tab` -> `Top-right gear icon` -> `Page Settings`
+
+- turn off `Show promoted links`
+- turn off `Show content`
+- turn off `Show widgets`
+- turn off `Show feed`
+- turn off `Background`
+- turn off `Show weather`
+
 - go to `Microsoft Edge` -> `Top-right horizontal three-dot icon` -> `Settings`
 
 #### 2.2 Absolute Minimum
