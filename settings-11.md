@@ -15,7 +15,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ## 1. Getting Started
 
-1. Open Windows Settings.
+### 1.1 Windows Settings
 
 - Press and hold `Windows key` then press `i`.
 
