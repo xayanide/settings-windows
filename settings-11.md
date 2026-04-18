@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260415.0
+v1.20260418.0
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -33,7 +33,7 @@ Please follow and apply the settings as written.
 - turn off `Device encryption`
 - click `Turn off`
 
-`Privacy and security` -> `Device encryption` -> `BitLocker drive encryption`
+`Privacy and security` -> `Device encryption` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
 
 > [!TIP]
 > Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if Windows glitches up and triggers this and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
