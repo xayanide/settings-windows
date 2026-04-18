@@ -59,7 +59,7 @@ Please follow and apply the settings as written.
 
 `Bluetooth and devices` -> `Mouse`
 
-- set `Mouse pointer speed` to `10/20`
+- set `Mouse pointer speed` to `10/20` (default)
 
 > [!TIP]
 > If you wanna change your mouse sensitivity, do it inside an app or game and using your mouse's software DPI settings, not the `Mouse pointer speed`.
@@ -73,17 +73,17 @@ Please follow and apply the settings as written.
 
 `Accessibility` -> `Keyboard` -> click `Sticky keys`, it's a dropdown
 
-- turn off `Sticky keys`
+- turn off `Sticky keys` (default)
 - turn off `Keyboard shortcut for Sticky keys`
 
 `Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
 
-- turn off `Filter keys`
+- turn off `Filter keys` (default)
 - turn off `Keyboard shortcut for Filter keys`
 
 `Accessibility` -> `Keyboard`
 
-- turn off `Toggle keys`
+- turn off `Toggle keys` (default)
 
 `Accessibility` -> `Narrator`
 
@@ -122,7 +122,7 @@ Please follow and apply the settings as written.
 
 `System` -> `Power Mode`
 
-- set `Plugged in` to `Balanced`
+- set `Plugged in` to `Balanced` (default)
 - set `On battery` to `Balanced`
 
 `System` -> `Clipboard`
@@ -163,15 +163,15 @@ Please follow and apply the settings as written.
 
 `Bluetooth and devices` -> `Keyboard` -> `Shortcuts and hotkeys`
 
-- turn on `Use the Print screen key to open screen capture`
+- turn on `Use the Print screen key to open screen capture` (default)
 
 ## 3.3 Personalization
 
 `Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings`
 
-- turn on `Desktop icons` -> `Computer`
+- turn on `Desktop icons` -> `Computer` (default)
 - turn on `Desktop icons` -> `User's Files`
-- turn on `Desktop icons` -> `Recycle Bin`
+- turn on `Desktop icons` -> `Recycle Bin` (default)
 - turn off `Allow themes to change desktop icons`
 
 > [!TIP]
@@ -203,10 +203,10 @@ Please follow and apply the settings as written.
 - set `Hard disk` -> `Turn off hard disk after` -> `Plugged in (Minutes)` to `0`
 - turn off `PCI Express` -> `Link State Power Management` -> `On battery`
 - turn off `PCI Express` -> `Link State Power Management` -> `Plugged in`
-- set `Processor power management` -> `Minimum processor state` -> `On battery` to `5`
-- set `Processor power management` -> `Minimum processor state` -> `Plugged in` to `5`
-- set `Processor power management` -> `Maximum processor state` -> `On battery` to `100`
-- set `Processor power management` -> `Maximum processor state` -> `Plugged in` to `100`
+- set `Processor power management` -> `Minimum processor state` -> `On battery` to `5` (default)
+- set `Processor power management` -> `Minimum processor state` -> `Plugged in` to `5` (default)
+- set `Processor power management` -> `Maximum processor state` -> `On battery` to `100` (default)
+- set `Processor power management` -> `Maximum processor state` -> `Plugged in` to `100` (default)
 - set `Switchable Dynamic Graphics` -> `Global Settings` -> `On battery` to `Optimize power savings`
 - set `Switchable Dynamic Graphics` -> `Global Settings` -> `Plugged in` to `Maximize performance`
 
