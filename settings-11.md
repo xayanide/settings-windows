@@ -118,7 +118,7 @@ Please follow and apply the settings as written.
 
 ## 3. A Little Deeper
 
-## 3.1 System
+### 3.1 System
 
 `System` -> `Power Mode`
 
@@ -155,7 +155,7 @@ Please follow and apply the settings as written.
 - turn off `Program Events:` -> `Play Windows Startup sound`
 - click `OK`
 
-## 3.2 Bluetooth and devices
+### 3.2 Bluetooth and devices
 
 `Bluetooth and devices` -> `Touchpad` -> click `Touchpad`, it's a dropdown
 
@@ -165,7 +165,7 @@ Please follow and apply the settings as written.
 
 - turn on `Use the Print screen key to open screen capture` (default)
 
-## 3.3 Personalization
+### 3.3 Personalization
 
 `Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings`
 
@@ -177,7 +177,7 @@ Please follow and apply the settings as written.
 > [!TIP]
 > These are most often accessed to access more things, so it kinda makes sense to always have these on desktop.
 
-## 3.4 Time and language
+### 3.4 Time and language
 
 `Time and language` -> `Typing`
 
@@ -186,7 +186,7 @@ Please follow and apply the settings as written.
 - turn off `Autocorrect misspelled words`
 - turn off `Highlight misspelled words`
 
-## 3.5 Control Panel
+### 3.5 Control Panel
 
 1. press the `Windows` key
 2. type `control panel`
@@ -212,7 +212,7 @@ Please follow and apply the settings as written.
 
 ## 4. Deep
 
-## 4.1 Control Panel
+### 4.1 Control Panel
 
 `Control Panel` -> `Appearance and Personalization` -> `File Explorer Options`
 
@@ -221,20 +221,20 @@ Please follow and apply the settings as written.
 - turn off `Show files from Office.com`
 - turn off `View` -> `Advanced settings:` -> `Hide extensions for known file types` or `File Explorer` -> `Top-middle list icon with "View" label` -> turn on `Show` -> `File name extensions`
 
-## 4.2 Time and language
+### 4.2 Time and language
 
 `Time and language` -> `Typing` -> `Typing insights`
 
 - turn off `Typing insights`
 
-## 4.3 System
+### 4.3 System
 
 `System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings` -> `System failure`
 
 - turn off `Automatically restart`
 - click `OK`
 
-## 4.4 Privacy and security
+### 4.4 Privacy and security
 
 `Privacy and security` -> `Recommendations and offers`
 
@@ -254,7 +254,7 @@ Please follow and apply the settings as written.
 
 - turn off `Online speech recognition`
 
-## 4.5 Windows Update
+### 4.5 Windows Update
 
 `Windows Update` -> `More Options` -> `Advanced options`
 
