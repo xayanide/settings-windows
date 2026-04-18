@@ -136,19 +136,19 @@ Please follow and apply the settings as written.
 `System` -> `Sound` -> `Output` -> Click `Speakers`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
-- turn off Advanced settings `Audio enhancements`
-- turn off Advanced settings `Spatial sound`
+- turn off `Advanced settings` -> `Audio enhancements`
+- turn off `Advanced settings` -> `Spatial sound`
 
 `System` -> `Sound` -> `Output` -> Click `Headphones`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
-- turn off Advanced settings `Audio enhancements`
-- turn off Advanced settings `Spatial sound`
+- turn off `Advanced settings` -> `Audio enhancements`
+- turn off `Advanced settings` -> `Spatial sound`
 
 `System` -> `Sound` -> `Input` -> Click `Microphone`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 16 bit, 48000 Hz (DVD Quality)`
-- turn off Advanced settings `Audio enhancements`
+- turn off `Advanced settings` -> `Audio enhancements`
 
 `System` -> `Sound` -> `Advanced` -> `More sound settings` -> `Sound` -> `Sound`
 
