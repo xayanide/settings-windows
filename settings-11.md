@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260418.0
+v1.20260418.1
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -185,6 +185,11 @@ Please follow and apply the settings as written.
 - turn off `Multilingual text suggestions`
 - turn off `Autocorrect misspelled words`
 - turn off `Highlight misspelled words`
+
+`Time and language` -> `Date and time` -> `
+
+- turn on `Set time automatically` (default)
+- set `Time zone` to `(UTC+08:00) Kuala Lumpur, Singapore` (varies, this is for the Philippines)
 
 ### 3.5 Control Panel
 
