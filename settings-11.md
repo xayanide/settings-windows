@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260418.1
+v1.20260418.2
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -284,6 +284,7 @@ Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit
 
 - set `On startup` -> `On startup` to `Continue where you left off`
 - turn off `System` -> `Continue running background apps when Google Chrome is closed`
+- turn off `Autofill and passwords` -> `Autofill and passwords` -> `Google Password Manager` -> `Settings` -> `Settings` -> `Offer to save passwords and passkeys`
 
 #### 1.3 A Little Deeper
 
@@ -306,6 +307,7 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 - turn off `System and performance` -> `System` -> `Startup boost`
 - turn off `System and performance` -> `System` -> `Continue running background extensions and apps when Edge is closed`
 - set `Start, home, and new tab page` -> `On startup` to `Open tabs from the previous session`
+- turn off `Passwords and autofill` -> `Passwords and autofill` -> `Microsoft Password Manager` -> `Ask to save passwords and passkeys`
 
 #### 2.3 A Little Deeper
 
@@ -327,6 +329,7 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 
 - set `General` -> `Startup` to `Open previous windows and tabs`
 - turn on `AI Controls` -> `Block AI enhancements`
+- turn off `Privacy and Security` -> `Passwords` -> `Ask to save passwords`
 
 #### 3.3 A Little Deeper
 
