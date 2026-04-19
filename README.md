@@ -412,7 +412,7 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 
 - Just press and hold `SHIFT` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
 
-## Others to Check Briefly
+## Others Worth to Check Briefly
 
 ### 1. Task View
 
