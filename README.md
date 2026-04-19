@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260419.1
+v1.20260419.2
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -82,10 +82,16 @@ Please follow and apply the settings as written.
 - turn off `Sticky keys` (default)
 - turn off `Keyboard shortcut for Sticky keys`
 
+> [!TIP]
+> Turn it off because it can cause accidental interruption when you press the Shift key quickly 5 times in a row anywhere. A regular user don't need it.
+
 `Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
 
 - turn off `Filter keys` (default)
 - turn off `Keyboard shortcut for Filter keys`
+
+> [!TIP]
+> Turn it off because it can cause accidental interruption when you press and hold the right Shift key for 8 secs anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard`
 
@@ -264,7 +270,7 @@ Please follow and apply the settings as written.
 
 ### 4.3 System
 
-`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings` -> `System failure`
+`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings...` -> `System failure`
 
 - turn off `Automatically restart`
 - click `OK`
@@ -376,3 +382,28 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 - turn off `Firefox Data Collection and Use` -> `Send technical and interaction data to Mozilla`
 - turn off `Firefox Data Collection and Use` -> `Allow Firefox to improve features, performance, and stability between updates`
 - turn off `Firefox Data Collection and Use` -> `Send daily usage ping to Mozilla`
+
+## If You're Fine Not Having Shadows, Animations and Fancy Effects
+
+### 1. Accessibility
+
+`Accessibility` -> `Visual effects`
+
+- turn off `Transparency effects`
+- turn off `Animation effects`
+
+### 2. System
+
+`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Performance` -> `Settings...` -> `Performance Options` -> `Visual Effects`
+
+- set to `Adjust for best performance` once
+- turn on `Show thumbnails instead of icons`
+- turn on `Show translucent selection rectangle`
+- turn on `Show window contents while dragging`
+- turn on `Smooth edges of screen fonts`
+- turn on `Use drop shadows for icon labels on desktop`
+- click `OK`
+
+## How About the Old Right-click Context Menu?
+
+- Just press and hold `SHIFT` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
