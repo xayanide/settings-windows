@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260419.2
+v1.20260419.3
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -83,7 +83,7 @@ Please follow and apply the settings as written.
 - turn off `Keyboard shortcut for Sticky keys`
 
 > [!TIP]
-> Turn it off because it can cause accidental interruption when you press the Shift key quickly 5 times in a row anywhere. A regular user don't need it.
+> Turn it off because it can cause accidental interruption when you press the `Shift` key quickly 5 times in a row anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
 
@@ -91,7 +91,7 @@ Please follow and apply the settings as written.
 - turn off `Keyboard shortcut for Filter keys`
 
 > [!TIP]
-> Turn it off because it can cause accidental interruption when you press and hold the right Shift key for 8 secs anywhere. A regular user don't need it.
+> Turn it off because it can cause accidental interruption when you press and hold the right `Shift` key for 8 secs anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard`
 
@@ -411,3 +411,10 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 ## How About the Old Right-click Context Menu?
 
 - Just press and hold `SHIFT` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
+
+## Others to Check Briefly
+
+### 1. Task View
+
+- press and hold `Windows` then press `Tab`
+- around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
