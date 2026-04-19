@@ -149,7 +149,7 @@ Please follow and apply the settings as written.
 - turn off `Advanced settings` -> `Spatial sound`
 
 > [!TIP]
-> You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good.
+> You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good. If you had a game or other softwares that also handle their own sound, filters stack up on each other which is a nono.
 
 `System` -> `Sound` -> `Input` -> Click `Microphone`, it's a dropdown -> `Properties`
 
