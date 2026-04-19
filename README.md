@@ -396,13 +396,17 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 
 `System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Performance` -> `Settings...` -> `Performance Options` -> `Visual Effects`
 
-- set to `Adjust for best performance` once
+- select `Adjust for best performance` to toggle all of them off
 - turn on `Show thumbnails instead of icons`
 - turn on `Show translucent selection rectangle`
 - turn on `Show window contents while dragging`
 - turn on `Smooth edges of screen fonts`
 - turn on `Use drop shadows for icon labels on desktop`
+- it'll automatically select `Custom:` for you
 - click `OK`
+
+> [!TIP]
+> Keeping the functional visuals so that Windows doesn't look very old from that.
 
 ## How About the Old Right-click Context Menu?
 
