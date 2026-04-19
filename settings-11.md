@@ -111,7 +111,7 @@ Please follow and apply the settings as written.
 - click `Save changes`
 
 > [!TIP]
-> When `Turn on fast startup (recommended)` is turned on, Windows doesnt actually shut down, it hibernates saving stuff on memory so it launches back up faster the next time you turn it on, it can be problematic at times so we turn it off to prevent future headaches so your computer or laptop can power cycle properly. Affects your boot times slightly, doesn't matter that much on SSDs, maybe 1-2 seconds.
+> When `Turn on fast startup (recommended)` is turned on, Windows doesnt actually shut down, it hibernates saving stuff on memory so it launches back up faster the next time you turn it on, it can be problematic at times so we turn it off to prevent future headaches so your computer or laptop can start fresh and power cycle properly. Affects your boot times slightly, doesn't matter that much on SSDs, maybe 1-2 seconds.
 
 ### 2.5 Apps
 
