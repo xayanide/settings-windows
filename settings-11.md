@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260418.4
+v1.20260419.0
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -109,6 +109,9 @@ Please follow and apply the settings as written.
 - click `Yes` if prompted
 - turn off `Turn on fast startup (recommended)`
 - click `Save changes`
+
+> [!TIP]
+> When `Turn on fast startup (recommended)` is turned on, Windows doesnt actually shut down, it hibernates saving stuff on memory so it launches back up faster the next time you turn it on, it can be problematic at times so we turn it off to prevent future headaches so your computer or laptop can power cycle properly. Affects your boot times slightly, doesn't matter that much on SSDs, maybe 1-2 seconds.
 
 ### 2.5 Apps
 
