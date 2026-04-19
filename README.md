@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260419.0
+v1.20260419.1
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -147,6 +147,9 @@ Please follow and apply the settings as written.
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
 - turn off `Advanced settings` -> `Audio enhancements`
 - turn off `Advanced settings` -> `Spatial sound`
+
+> [!TIP]
+> You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good.
 
 `System` -> `Sound` -> `Input` -> Click `Microphone`, it's a dropdown -> `Properties`
 
