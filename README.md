@@ -294,7 +294,7 @@ Please follow and apply the settings as written.
 
 - turn off `Allow downloads from other devices`
 
-## Basic Browsers
+## Basic Browsers Settings
 
 ### 1. Google Chrome
 
