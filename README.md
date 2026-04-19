@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260419.3
+v1.20260419.4
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -330,6 +330,11 @@ Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit
 - turn off `You and Google` -> `Google services` -> `Make searches and browsing better`
 - turn off `You and Google` -> `Google services` -> `Improve search suggestions`
 
+#### 1.4 If You're Fine Not Having Smooth Scrolling
+
+- `Google Chrome` -> type and enter the URL `chrome://flags/#smooth-scrolling`
+- set `Smooth Scrolling` to `Disabled`
+
 ### 2. Microsoft Edge
 
 Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit)`
@@ -362,6 +367,11 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 - turn off `Privacy, search, and services` -> `Privacy` -> `Help improve Microsoft products by sending the results from searches on the web`
 - turn off `Privacy, search, and services` -> `Privacy` -> `Allow Microsoft to save your browsing activity including history, usage, favorites, web content, and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news.`
 
+#### 2.4 If You're Fine Not Having Smooth Scrolling
+
+- `Microsoft Edge` -> type and enter the URL `edge://flags/#smooth-scrolling`
+- set `Smooth Scrolling` to `Disabled`
+
 ### 3. Mozilla Firefox
 
 Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
@@ -383,7 +393,14 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 - turn off `Firefox Data Collection and Use` -> `Allow Firefox to improve features, performance, and stability between updates`
 - turn off `Firefox Data Collection and Use` -> `Send daily usage ping to Mozilla`
 
+#### 3.4 If You're Fine Not Having Smooth Scrolling
+
+- turn off `General` -> `Browsing` -> `Use smooth scrolling`
+
 ## If You're Fine Not Having Shadows, Animations and Fancy Effects
+
+> [!NOTE]
+> Some websites and applications such as Discord as an example depend on `Animate controls and elements inside windows`, as a result it may turn off `Smooth scrolling` too.
 
 ### 1. Accessibility
 
