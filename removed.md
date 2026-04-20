@@ -14,9 +14,7 @@
 
 - set `Display` -> `Turn off display after` -> `On battery (Minutes)` to `0` (can be modified in windows settings)
 - set `Display` -> `Turn off display after` -> `Plugged in (Minutes)` to `0` (can be modified in windows settings)
-
-## 1
-
+- 
 - set (INTEL ONLY) `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `On battery` to `Balanced`
 - set (INTEL ONLY) `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `Plugged in` to `Balanced`
 
