@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.1
+v1.20260420.2
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -441,9 +441,10 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 > [!TIP]
 > Keeping the functional visuals so that Windows doesn't look very old from that.
 
-## How About the Old Right-click Context Menu?
+## How About the Old Right-Click Context Menu and Taskbar on the Left?
 
-- Just press and hold `Shift` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
+- press and hold `Shift` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
+- set `Personalization` -> `Taskbar` -> `Taskbar Behaviors` -> `Taskbar alignment` to `Left`
 
 ## Others Worth to Check Briefly
 
