@@ -438,6 +438,25 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 - it'll automatically select `Custom:` for you
 - click `OK`
 
+> It should look like this:
+> - [ ] `Animate controls and elements inside windows`
+> - [ ] `Animate windows when minimizing and maximizing`
+> - [ ] `Animations in the taskbar`
+> - [ ] `Enable Peek`
+> - [ ] `Fade or slide menus into view`
+> - [ ] `Fade or slide ToolTips into view`
+> - [ ] `Fade out menu items after clicking`
+> - [ ] `Save taskbar thumbnail previews`
+> - [ ] `Show shadows under mouse pointer`
+> - [ ] `Show shadows under windows`
+> - [x] `Show thumbnails instead of icons` (default)
+> - [x] `Show translucent selection rectangle` (default)
+> - [x] `Show window contents while dragging` (default)
+> - [ ] `Slide open combo boxes`
+> - [x] `Smooth edges of screen fonts` (default)
+> - [ ] `Smooth-scroll list boxes`
+> - [x] `Use drop shadows for icon lables on the desktop` (default)
+
 > [!TIP]
 > Keeping the functional visuals so that Windows doesn't look very old from that.
 
