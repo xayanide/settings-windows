@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.4
+v1.20260420.5
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -156,6 +156,34 @@ Please follow and apply the settings as written.
 - set `Plugged in` to `Balanced` (default)
 - set `On battery` to `Balanced`
 
+`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`
+
+- set `Turn my screen off after` to `Never`
+- set `Make my device sleep after` to `Never`
+
+`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `On battery`
+
+- set `Turn my screen off after` to `Never`
+- set `Make my device sleep after` to `Never`
+
+`System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `Plugged in`
+
+- set `Pressing the power button will make my PC` to `Do nothing`
+- set `Pressing the sleep button will make my PC` to `Sleep` (default)
+- set `Closing the lid will make my PC` to `Sleep` (default)
+
+> [!TIP]
+> Power button presses no longer shuts down to prevent accidental shut downs.
+
+`System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `On battery`
+
+- set `Pressing the power button will make my PC` to `Do nothing`
+- set `Pressing the sleep button will make my PC` to `Sleep` (default)
+- set `Closing the lid will make my PC` to `Sleep` (default)
+
+> [!TIP]
+> Power button presses no longer shuts down to prevent accidental shut downs.
+
 `System` -> `Clipboard`
 
 - turn on `Clipboard history`
@@ -242,6 +270,8 @@ Please follow and apply the settings as written.
 - set `Hard disk` -> `Turn off hard disk after` -> `Plugged in (Minutes)` to `0`
 - set `Internet Explorer mode` -> `JavaScript Timer Frequency` -> `On battery` to `Maximum Performance` (may be hidden)
 - set `Internet Explorer mode` -> `JavaScript Timer Frequency` -> `Plugged in` to `Maximum Performance` (may be hidden)
+- set `Desktop background settings` -> `Slide show` -> `On battery` to `Available`
+- set `Desktop background settings` -> `Slide show` -> `Plugged in` to `Available`
 - set `Wireless Adapter Settings` -> `Power Saving Mode` -> `On battery` to `Maximum Performance` (may be hidden)
 - set `Wireless Adapter Settings` -> `Power Saving Mode` -> `Plugged in` to `Maximum Performance` (may be hidden)
 - set `Sleep` -> `Sleep after` -> `On battery (Minutes)` to `0` (may be hidden, can be modified in windows settings)
