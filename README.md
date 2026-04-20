@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260419.4
+v1.20260420.0
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -130,6 +130,20 @@ Please follow and apply the settings as written.
 `Apps` -> `Resume`
 
 - turn off `Resume`
+
+### 2.6 System
+
+`System` -> `Display` -> `Scale and layout`
+
+- set `Display resolution` to a resolution that contained `(Recommended)` as an option
+
+`System` -> `Display` -> `Related settings` -> `Advanced display` -> `Display information`
+
+- set `Choose a refresh rate` to the highest value when plugged in or to the lowest value when on battery
+- turn off `Dynamic refresh rate`
+
+> [!TIP]
+> We turn off `Dynamic refresh rate` to have the power consumption of the Display be more predictable. On laptops you shouldn't leave `Choose a refresh rate`'s value the way it is all the time when you're on battery, take extra care of your laptop's battery especially on gaming laptops lol.
 
 ## 3. A Little Deeper
 
