@@ -151,7 +151,7 @@ Please follow and apply the settings as written.
 
 ### 3.1 System
 
-`System` -> `Power and battery` -> `Power Mode`
+`System` -> `Power and battery` -> click `Power Mode`, it's a dropdown
 
 - set `Plugged in` to `Balanced` (default)
 - set `On battery` to `Balanced`
@@ -164,13 +164,13 @@ Please follow and apply the settings as written.
 
 - turn on `End Task`
 
-`System` -> `Sound` -> `Output` -> Click `Speakers`, it's a dropdown -> `Properties`
+`System` -> `Sound` -> `Output` -> click `Speakers`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
 - turn off `Advanced settings` -> `Audio enhancements`
 - turn off `Advanced settings` -> `Spatial sound`
 
-`System` -> `Sound` -> `Output` -> Click `Headphones`, it's a dropdown -> `Properties`
+`System` -> `Sound` -> `Output` -> click `Headphones`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
 - turn off `Advanced settings` -> `Audio enhancements`
@@ -179,7 +179,7 @@ Please follow and apply the settings as written.
 > [!TIP]
 > You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good. If you had a game or other softwares that also handle their own sound, filters stack up on each other which is a nono.
 
-`System` -> `Sound` -> `Input` -> Click `Microphone`, it's a dropdown -> `Properties`
+`System` -> `Sound` -> `Input` -> click `Microphone`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 16 bit, 48000 Hz (DVD Quality)`
 - turn off `Advanced settings` -> `Audio enhancements`
