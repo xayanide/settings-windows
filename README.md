@@ -27,22 +27,16 @@ Please follow and apply the settings as written.
 
 `Privacy and security` -> `Device encryption`
 
-> [!TIP]
-> Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if a Windows update glitches Windows up and triggers BitLocker lock and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
-
-> [!WARNING]
-> Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
-
 - turn off `Device encryption`
 - click `Turn off`
 
-`Privacy and security` -> `Device encryption` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
-
 > [!TIP]
 > Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if a Windows update glitches Windows up and triggers BitLocker lock and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
 
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
+
+`Privacy and security` -> `Device encryption` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
 
 -> `Operating system drive`
 
@@ -53,6 +47,12 @@ Please follow and apply the settings as written.
 
 - turn off `BitLocker` on every drive shown, if not already
 - click `Turn off BitLocker`
+
+> [!TIP]
+> Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if a Windows update glitches Windows up and triggers BitLocker lock and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
+
+> [!WARNING]
+> Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
 
 `Privacy and security` -> `Recall and snapshots`
 
