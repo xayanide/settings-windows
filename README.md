@@ -149,7 +149,7 @@ Please follow and apply the settings as written.
 
 ### 3.1 System
 
-`System` -> `Power Mode`
+`System` -> `Power and battery` -> `Power Mode`
 
 - set `Plugged in` to `Balanced` (default)
 - set `On battery` to `Balanced`
@@ -242,8 +242,8 @@ Please follow and apply the settings as written.
 - set `Internet Explorer mode` -> `JavaScript Timer Frequency` -> `Plugged in` to `Maximum Performance` (may be hidden)
 - set `Wireless Adapter Settings` -> `Power Saving Mode` -> `On battery` to `Maximum Performance` (may be hidden)
 - set `Wireless Adapter Settings` -> `Power Saving Mode` -> `Plugged in` to `Maximum Performance` (may be hidden)
-- set `Sleep` -> `Sleep after` -> `On battery (Minutes)` to `0` (may be hidden, can be modified in Windows Settings)
-- set `Sleep` -> `Sleep after` -> `Plugged in (Minutes)` to `0` (may be hidden, can be modified in Windows Settings)
+- set `Sleep` -> `Sleep after` -> `On battery (Minutes)` to `0` (may be hidden, can be modified in `System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`)
+- set `Sleep` -> `Sleep after` -> `Plugged in (Minutes)` to `0` (may be hidden, can be modified in `System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`)
 - set `Sleep` -> `Allow wake timers` -> `On battery` to `Disable` (may be hidden)
 - set `Sleep` -> `Allow wake timers` -> `Plugged in` to `Disable` (may be hidden)
 - set `USB settings` -> `USB selective suspend setting` -> `On battery` to `Disabled`
@@ -254,8 +254,8 @@ Please follow and apply the settings as written.
 - set `Processor power management` -> `Minimum processor state` -> `Plugged in` to `5` (default)
 - set `Processor power management` -> `Maximum processor state` -> `On battery` to `100` (default)
 - set `Processor power management` -> `Maximum processor state` -> `Plugged in` to `100` (default)
-- set `Display` -> `Turn off display after` -> `On battery (Minutes)` to `0` (can be modified in Windows Settings)
-- set `Display` -> `Turn off display after` -> `Plugged in (Minutes)` to `0` (can be modified in Windows Settings)
+- set `Display` -> `Turn off display after` -> `On battery (Minutes)` to `0` (can be modified in `System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`)
+- set `Display` -> `Turn off display after` -> `Plugged in (Minutes)` to `0` (can be modified in `System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`)
 - set `Switchable Dynamic Graphics` -> `Global Settings` -> `On battery` to `Optimize power savings`
 - set `Switchable Dynamic Graphics` -> `Global Settings` -> `Plugged in` to `Maximize performance`
 - set `Multimedia settings` -> `When sharing media` -> `On battery` to `Prevent idling to sleep`
