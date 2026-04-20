@@ -30,7 +30,7 @@ Please follow and apply the settings as written.
 - turn off `Device encryption`
 - click `Turn off`
 
-> [!TIP]
+> [!NOTE]
 > Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if a Windows update glitches Windows up and triggers BitLocker lock and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
 
 > [!WARNING]
@@ -48,7 +48,7 @@ Please follow and apply the settings as written.
 - turn off `BitLocker` on every drive shown, if not already
 - click `Turn off BitLocker`
 
-> [!TIP]
+> [!NOTE]
 > Turns off encryption and decryption of every file you open so it gives a small performance boost. We turn this off because it is an overkill security feature for a personal computer, if a Windows update glitches Windows up and triggers BitLocker lock and you don't have the BitLocker recovery key saved, this encryption can permanently lock you out of your own files.
 
 > [!WARNING]
@@ -58,7 +58,7 @@ Please follow and apply the settings as written.
 
 - turn off `Save snapshots`
 
-> [!TIP]
+> [!NOTE]
 > If it's there, turn it off.
 
 ### 2.2 Bluetooth and Devices
@@ -72,7 +72,7 @@ Please follow and apply the settings as written.
 
 - turn off `Enhance pointer precision`
 
-> [!TIP]
+> [!NOTE]
 > We turn this off so that the movement of your cursor depends only on how far you move your mouse, not how fast you move it.
 
 ### 2.3 Accessibility
@@ -82,7 +82,7 @@ Please follow and apply the settings as written.
 - turn off `Sticky keys` (default)
 - turn off `Keyboard shortcut for Sticky keys`
 
-> [!TIP]
+> [!NOTE]
 > Turn it off because it can cause accidental interruption when you press the `Shift` key quickly 5 times in a row anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
@@ -90,7 +90,7 @@ Please follow and apply the settings as written.
 - turn off `Filter keys` (default)
 - turn off `Keyboard shortcut for Filter keys`
 
-> [!TIP]
+> [!NOTE]
 > Turn it off because it can cause accidental interruption when you press and hold the right `Shift` key for 8 secs anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard`
@@ -122,7 +122,7 @@ Please follow and apply the settings as written.
 - turn off `Turn on fast startup (recommended)`
 - click `Save changes`
 
-> [!TIP]
+> [!NOTE]
 > When `Turn on fast startup (recommended)` is turned on, Windows doesnt actually shut down, it hibernates saving stuff on memory so it launches back up faster the next time you turn it on, it can be problematic at times so we turn it off to prevent future headaches so your computer or laptop can start fresh and power cycle properly. Affects your boot times slightly, doesn't matter that much on SSDs, maybe 1-2 seconds.
 
 ### 2.5 Apps
@@ -144,7 +144,7 @@ Please follow and apply the settings as written.
 - set `Choose a refresh rate` to the highest value when plugged in or to the lowest value when on battery
 - turn off `Dynamic refresh rate`
 
-> [!TIP]
+> [!NOTE]
 > We turn off `Dynamic refresh rate` to have the power consumption of the Display be more predictable. On laptops you shouldn't leave `Choose a refresh rate`'s value the way it is all the time when you're on battery, take extra care of your laptop's battery especially on gaming laptops lol.
 
 ## 3. A Little Deeper
@@ -172,7 +172,7 @@ Please follow and apply the settings as written.
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
 
-> [!TIP]
+> [!NOTE]
 > Power button presses no longer shuts down to prevent accidental shut downs.
 
 `System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `On battery`
@@ -181,7 +181,7 @@ Please follow and apply the settings as written.
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
 
-> [!TIP]
+> [!NOTE]
 > Power button presses no longer shuts down to prevent accidental shut downs.
 
 `System` -> `Clipboard`
@@ -204,7 +204,7 @@ Please follow and apply the settings as written.
 - turn off `Advanced settings` -> `Audio enhancements`
 - turn off `Advanced settings` -> `Spatial sound`
 
-> [!TIP]
+> [!NOTE]
 > You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good. If you had a game or other softwares that also handle their own sound, filters stack up on each other which is a nono.
 
 `System` -> `Sound` -> `Input` -> click `Microphone`, it's a dropdown -> `Properties`
@@ -236,7 +236,7 @@ Please follow and apply the settings as written.
 - turn on `Desktop icons` -> `Recycle Bin` (default)
 - turn off `Allow themes to change desktop icons`
 
-> [!TIP]
+> [!NOTE]
 > These are most often accessed to access more things, so it kinda makes sense to always have these on desktop.
 
 ### 3.4 Time and language
@@ -402,7 +402,7 @@ Please follow and apply the settings as written.
 > - [ ] `Smooth-scroll list boxes`
 > - [x] `Use drop shadows for icon lables on the desktop` (default)
 
-> [!TIP]
+> [!NOTE]
 > Keeping the functional visuals so that Windows doesn't look very old from that.
 
 ## 6. Optionals: If You Want The Old Look
