@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.5
+v1.20260420.6
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -280,12 +280,16 @@ Please follow and apply the settings as written.
 - set `Sleep` -> `Allow wake timers` -> `Plugged in` to `Disable` (may be hidden)
 - set `USB settings` -> `USB selective suspend setting` -> `On battery` to `Disabled`
 - set `USB settings` -> `USB selective suspend setting` -> `Plugged in` to `Disabled`
+- set (INTEL ONLY) `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `On battery` to `Balanced`
+- set (INTEL ONLY) `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `Plugged in` to `Balanced`
 - set `PCI Express` -> `Link State Power Management` -> `On battery` to `Off`
 - set `PCI Express` -> `Link State Power Management` -> `Plugged in` to `Off`
 - set `Processor power management` -> `Minimum processor state` -> `On battery` to `5` (default)
 - set `Processor power management` -> `Minimum processor state` -> `Plugged in` to `5` (default)
 - set `Processor power management` -> `Maximum processor state` -> `On battery` to `100` (default)
 - set `Processor power management` -> `Maximum processor state` -> `Plugged in` to `100` (default)
+- set `Processor power management` -> `System cooling policy` -> `On battery` to `Passive` (default)
+- set `Processor power management` -> `System cooling policy` -> `Plugged in` to `Active` (default)
 - set `Display` -> `Turn off display after` -> `On battery (Minutes)` to `0` (can be modified in windows settings)
 - set `Display` -> `Turn off display after` -> `Plugged in (Minutes)` to `0` (can be modified in windows settings)
 - set `Switchable Dynamic Graphics` -> `Global Settings` -> `On battery` to `Optimize power savings`
