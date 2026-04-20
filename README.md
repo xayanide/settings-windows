@@ -384,7 +384,7 @@ Please follow and apply the settings as written.
 
 ## 7. Others Worth to Check Briefly
 
-### 7.1. Task View
+### 7.1 Task View
 
 - press and hold `Windows` key then press `Tab`
 - around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
