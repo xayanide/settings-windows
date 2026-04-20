@@ -135,7 +135,7 @@ Please follow and apply the settings as written.
 
 `System` -> `Display` -> `Scale and layout`
 
-- set `Display resolution` to a resolution that contained `(Recommended)` as an option
+- set `Display resolution` to a resolution that was marked as `(Recommended)`
 
 `System` -> `Display` -> `Related settings` -> `Advanced display` -> `Display information`
 
