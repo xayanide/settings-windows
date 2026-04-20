@@ -391,7 +391,7 @@ Please follow and apply the settings as written.
 
 ## The Big Three Browsers
 
-### Google Chrome
+### 1. Google Chrome
 
 Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit)`
 
