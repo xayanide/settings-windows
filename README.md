@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.2
+v1.20260420.3
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -135,7 +135,9 @@ Please follow and apply the settings as written.
 
 `System` -> `Display` -> `Scale and layout`
 
-- set `Display resolution` to a resolution that was marked as `(Recommended)`
+- set `Scale` to a scale that is marked as `(Recommended)`
+
+- set `Display resolution` to a resolution that is marked as `(Recommended)`
 
 `System` -> `Display` -> `Related settings` -> `Advanced display` -> `Display information`
 
@@ -415,7 +417,7 @@ Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit
 
 #### 1.4 If You're Fine Not Having Smooth Scrolling
 
-- `Google Chrome` -> type and enter the URL `chrome://flags/#smooth-scrolling`
+- `Google Chrome` -> enter the URL `chrome://flags/#smooth-scrolling`
 - set `Smooth Scrolling` to `Disabled`
 
 ### 2. Microsoft Edge
@@ -452,7 +454,7 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 
 #### 2.4 If You're Fine Not Having Smooth Scrolling
 
-- `Microsoft Edge` -> type and enter the URL `edge://flags/#smooth-scrolling`
+- `Microsoft Edge` -> enter the URL `edge://flags/#smooth-scrolling`
 - set `Smooth Scrolling` to `Disabled`
 
 ### 3. Mozilla Firefox
