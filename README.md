@@ -462,7 +462,7 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 
 ## How About the Old Right-Click Context Menu and Taskbar on the Left?
 
-- press and hold `Shift` + `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
+- press and hold `Shift` then press `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
 - set `Personalization` -> `Taskbar` -> `Taskbar Behaviors` -> `Taskbar alignment` to `Left`
 
 ## Others Worth to Check Briefly
