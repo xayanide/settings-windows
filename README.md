@@ -322,9 +322,76 @@ Please follow and apply the settings as written.
 
 - turn off `Allow downloads from other devices`
 
-## Basic Browser Settings
+## 5. Optionals: If You Want Only Functional Visuals
 
-### 1. Google Chrome
+> [!NOTE]
+> Some websites and applications such as Discord, Chrome, Edge's `Smooth scrolling` defaults depend on `Animate controls and elements inside windows`, as a result it may turn off their `Smooth scrolling` too.
+
+### 5.1. Accessibility
+
+`Accessibility` -> `Visual effects`
+
+- turn off `Transparency effects`
+- turn off `Animation effects`
+
+### 5.2. System
+
+`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Performance` -> `Settings...` -> `Performance Options` -> `Visual Effects`
+
+- select `Adjust for best performance` to toggle all of them off
+- turn on `Show thumbnails instead of icons`
+- turn on `Show translucent selection rectangle`
+- turn on `Show window contents while dragging`
+- turn on `Smooth edges of screen fonts`
+- turn on `Use drop shadows for icon labels on desktop`
+- it'll automatically select `Custom:` for you
+- click `OK`
+
+> It should look like this:
+> - [ ] `Animate controls and elements inside windows`
+> - [ ] `Animate windows when minimizing and maximizing`
+> - [ ] `Animations in the taskbar`
+> - [ ] `Enable Peek`
+> - [ ] `Fade or slide menus into view`
+> - [ ] `Fade or slide ToolTips into view`
+> - [ ] `Fade out menu items after clicking`
+> - [ ] `Save taskbar thumbnail previews`
+> - [ ] `Show shadows under mouse pointer`
+> - [ ] `Show shadows under windows`
+> - [x] `Show thumbnails instead of icons` (default)
+> - [x] `Show translucent selection rectangle` (default)
+> - [x] `Show window contents while dragging` (default)
+> - [ ] `Slide open combo boxes`
+> - [x] `Smooth edges of screen fonts` (default)
+> - [ ] `Smooth-scroll list boxes`
+> - [x] `Use drop shadows for icon lables on the desktop` (default)
+
+> [!TIP]
+> Keeping the functional visuals so that Windows doesn't look very old from that.
+
+## 6. Optionals: If You Want The Old Look
+
+### 6.1 Personalization
+
+- set `Personalization` -> `Taskbar` -> `Taskbar Behaviors` -> `Taskbar alignment` to `Left`
+
+### 6.2 Old Context Menu
+
+- at File Explorer or Desktop, press and hold `Shift` then press `Right-click`
+
+> [!NOTE]
+> No registry edit needed.
+
+## 7. Others Worth to Check Briefly
+
+### 7.1. Task View
+
+- press and hold `Windows` key then press `Tab`
+- around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
+
+## The Big Three Browsers
+
+### Google Chrome
 
 Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit)`
 
@@ -412,62 +479,3 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 #### 3.4 If You're Fine Not Having Smooth Scrolling
 
 - turn off `General` -> `Browsing` -> `Use smooth scrolling`
-
-## If You're Fine Not Having Shadows, Animations and Fancy Effects
-
-> [!NOTE]
-> Some websites and applications such as Discord as an example depend on `Animate controls and elements inside windows`, as a result it may turn off `Smooth scrolling` too.
-
-### 1. Accessibility
-
-`Accessibility` -> `Visual effects`
-
-- turn off `Transparency effects`
-- turn off `Animation effects`
-
-### 2. System
-
-`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Performance` -> `Settings...` -> `Performance Options` -> `Visual Effects`
-
-- select `Adjust for best performance` to toggle all of them off
-- turn on `Show thumbnails instead of icons`
-- turn on `Show translucent selection rectangle`
-- turn on `Show window contents while dragging`
-- turn on `Smooth edges of screen fonts`
-- turn on `Use drop shadows for icon labels on desktop`
-- it'll automatically select `Custom:` for you
-- click `OK`
-
-> It should look like this:
-> - [ ] `Animate controls and elements inside windows`
-> - [ ] `Animate windows when minimizing and maximizing`
-> - [ ] `Animations in the taskbar`
-> - [ ] `Enable Peek`
-> - [ ] `Fade or slide menus into view`
-> - [ ] `Fade or slide ToolTips into view`
-> - [ ] `Fade out menu items after clicking`
-> - [ ] `Save taskbar thumbnail previews`
-> - [ ] `Show shadows under mouse pointer`
-> - [ ] `Show shadows under windows`
-> - [x] `Show thumbnails instead of icons` (default)
-> - [x] `Show translucent selection rectangle` (default)
-> - [x] `Show window contents while dragging` (default)
-> - [ ] `Slide open combo boxes`
-> - [x] `Smooth edges of screen fonts` (default)
-> - [ ] `Smooth-scroll list boxes`
-> - [x] `Use drop shadows for icon lables on the desktop` (default)
-
-> [!TIP]
-> Keeping the functional visuals so that Windows doesn't look very old from that.
-
-## How About the Old Right-Click Context Menu and Taskbar on the Left?
-
-- press and hold `Shift` then press `Right-click` to get the old one on File Explorer and Desktop. No need for a registry edit.
-- set `Personalization` -> `Taskbar` -> `Taskbar Behaviors` -> `Taskbar alignment` to `Left`
-
-## Others Worth to Check Briefly
-
-### 1. Task View
-
-- press and hold `Windows` key then press `Tab`
-- around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
