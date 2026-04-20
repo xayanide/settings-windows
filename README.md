@@ -56,10 +56,10 @@ Please follow and apply the settings as written.
 
 `Privacy and security` -> `Recall and snapshots`
 
+- turn off `Save snapshots`
+
 > [!TIP]
 > If it's there, turn it off.
-
-- turn off `Save snapshots`
 
 ### 2.2 Bluetooth and Devices
 
