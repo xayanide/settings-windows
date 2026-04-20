@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.3
+v1.20260420.4
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -266,8 +266,8 @@ Please follow and apply the settings as written.
 - set `Multimedia settings` -> `Video quality playback bias` -> `Plugged in` to `Video playback performance bias`
 - set `Multimedia settings` -> `When playing video` -> `On battery` to `Balanced`
 - set `Multimedia settings` -> `When playing video` -> `Plugged in` to `Optimize video quality`
-- set `Battery` -> `Critical battery action` -> `On battery` to `Shut down`
-- set `Battery` -> `Critical battery action` -> `Plugged in` to `Shut down`
+- set `Battery` -> `Critical battery action` -> `On battery` to `Hibernate` (default)
+- set `Battery` -> `Critical battery action` -> `Plugged in` to `Hibernate` (default)
 
 ## 4. Deep
 
