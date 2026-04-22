@@ -19,7 +19,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 1.1 Windows Settings
 
-- press and hold `Windows key` then press `i`.
+- press and hold `Windows key` then press `i`
 
 > [!NOTE]
 > Please follow and apply the settings below as exactly written.
