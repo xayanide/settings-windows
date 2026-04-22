@@ -216,7 +216,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Advanced settings` -> `Spatial sound`
 
 > [!NOTE]
-> You don't need filters on sound, clear stereo sound lang sa right and left channel and it's all good. If you had a game or other softwares that also handle their own sound, filters stack up on each other which is a nono.
+> `24 bit, 48000 Hz` is a good set-it-and-forget-it setting to have. Turn off `Audio enhancements` and `Spatial sound` because you don't need filters on sound. Clear stereo sound lang sa right and left channel and it's all good. If you had a game or other softwares that also handle their own sound, filters stack up on each other which is a nono, that's why it's better to have Windows' sound adjustments off.
 
 `System` -> `Sound` -> `Input` -> click `Microphone`, it's a dropdown -> `Properties`
 
