@@ -368,9 +368,6 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ## 5. Optionals: If You Want Only Functional Visuals
 
-> [!NOTE]
-> Some websites and applications such as Discord, Chrome, Edge's `Smooth scrolling` defaults depend on `Animate controls and elements inside windows`, as a result it may turn off their `Smooth scrolling` too.
-
 ### 5.1. Accessibility
 
 `Accessibility` -> `Visual effects`
@@ -410,6 +407,9 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > - [ ] `Smooth-scroll list boxes`
 > - [x] `Use drop shadows for icon lables on the desktop` (default)
 
+> [!WARNING]
+> Some websites and applications such as Discord, Chrome, Edge's `Smooth scrolling` defaults depend on `Animate controls and elements inside windows`, as a result it may turn off their `Smooth scrolling` too.
+
 > [!NOTE]
 > Keeping the functional visuals so that Windows doesn't look very old from that.
 
@@ -417,11 +417,12 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 6.1 Personalization
 
-- set `Personalization` -> `Taskbar` -> `Taskbar Behaviors` -> `Taskbar alignment` to `Left`
+`Personalization` -> `Taskbar` -> `Taskbar Behaviors`
+- set `Taskbar alignment` to `Left`
 
-### 6.2 Old Context Menu
+### 6.2 Old Right-click Context Menu
 
-- at File Explorer or Desktop, press and hold `Shift` then press `Right-click`
+- at File Explorer or Desktop, press and hold `Shift` then press `Right-click` on a blank space
 
 > [!NOTE]
 > No registry edit needed.
