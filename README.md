@@ -231,7 +231,7 @@ Please follow and apply the settings as written.
 
 ### 3.3 Personalization
 
-`Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings`
+`Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings` -> `Desktop icons`
 
 - turn on `Desktop icons` -> `Computer` (default)
 - turn on `Desktop icons` -> `User's Files`
