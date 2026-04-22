@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260422.1
+v1.20260422.2
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -150,10 +150,6 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!NOTE]
 > We turn off `Dynamic refresh rate` to have the power consumption of the Display be more predictable. On laptops you shouldn't leave `Choose a refresh rate`'s value the way it is all the time when you're on battery, take extra care of your laptop's battery especially on gaming laptops lol.
 
-## 3. A Little Deeper
-
-### 3.1 System
-
 `System` -> `Power and battery` -> click `Power Mode`, it's a dropdown
 
 - set `Plugged in` to `Balanced` (default)
@@ -228,7 +224,15 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Program Events:` -> `Play Windows Startup sound`
 - click `OK`
 
-### 3.2 Bluetooth and devices
+`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings...` -> `System failure`
+
+- turn off `Automatically restart`
+- click `OK`
+
+> [!NOTE]
+> We turn it off because when your computer encounters a BSOD (Blue Screen of Death), it doesn't restart your computer by itself after a certain time. It helps letting you know that a BSOD actually happened and the error that caused it. 
+
+### 2.7 Bluetooth and devices
 
 `Bluetooth and devices` -> `Touchpad` -> click `Touchpad`, it's a dropdown
 
@@ -238,7 +242,9 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 - turn on `Use the Print screen key to open screen capture` (default)
 
-### 3.3 Personalization
+## 3. A Little Deeper
+
+### 3.1 Personalization
 
 `Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings` -> `Desktop icons`
 
@@ -250,7 +256,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!NOTE]
 > These are most often accessed to access more things, so it kinda makes sense to always have these on desktop.
 
-### 3.4 Time and language
+### 3.2 Time and language
 
 `Time and language` -> `Typing`
 
@@ -264,7 +270,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn on `Set time automatically` (default)
 - set `Time zone` to `(UTC+08:00) Kuala Lumpur, Singapore` (varies, this is for the Philippines)
 
-### 3.5 Control Panel
+### 3.3 Control Panel
 
 1. press the `Windows` key
 2. type `control panel`
@@ -329,17 +335,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 - turn off `Typing insights`
 
-### 4.3 System
-
-`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings...` -> `System failure`
-
-- turn off `Automatically restart`
-- click `OK`
-
-> [!NOTE]
-> We turn it off because when your computer encounters a BSOD (Blue Screen of Death), it doesn't restart your computer by itself after a certain time. It helps letting you know that a BSOD actually happened and the error that caused it. 
-
-### 4.4 Privacy and security
+### 4.3 Privacy and security
 
 `Privacy and security` -> `Recommendations and offers`
 
@@ -359,7 +355,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 - turn off `Online speech recognition`
 
-### 4.5 Windows Update
+### 4.4 Windows Update
 
 `Windows Update` -> `More Options` -> `Advanced options`
 
