@@ -76,7 +76,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Enhance pointer precision`
 
 > [!NOTE]
-> We turn this off so that the movement of your cursor depends only on how far you move your mouse, not how fast you move it.
+> Despite how it's named, we actually turn this off to get rid of mouse acceleration so that the movement of your cursor depends only on how far you move your mouse, not how fast you move it.
 
 ### 2.3 Accessibility
 
