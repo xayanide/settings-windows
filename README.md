@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260422.0
+v1.20260422.1
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -195,6 +195,14 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 - turn on `End Task`
 
+`System` -> `Advanced` -> `File Explorer` -> `File Explorer`
+
+- turn on `Enable long paths`
+
+`System` -> `Advanced` -> `File Explorer` -> `File Explorer` -> `File Explorer`
+
+- turn on `Show file extensions`
+
 `System` -> `Sound` -> `Output` -> click `Speakers`, it's a dropdown -> `Properties`
 
 - set `Output settings` -> `Format` to `2 channels, 24 bit, 48000 Hz (Studio Quality)`
@@ -314,7 +322,6 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Show recently used files`
 - turn off `Show frequently used folders`
 - turn off `Show files from Office.com`
-- turn off `View` -> `Advanced settings:` -> `Hide extensions for known file types` or `File Explorer` -> `Top-middle list icon with "View" label` -> turn on `Show` -> `File name extensions`
 
 ### 4.2 Time and language
 
