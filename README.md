@@ -11,6 +11,8 @@ At a minimum should work with
 Windows 11 Home 25H2 Build 26200.8037
 ```
 
+## Purpose
+
 I wrote these so I have a quick reference for the changes I've been applying everytime on a fresh Windows install. Walang command line or registry edits, all within user interfaces lang. There are some default settings that are already good as is from a fresh install so they do not have to be modified. 
 
 ## 1. Getting Started
