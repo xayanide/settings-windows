@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260422.2
+v1.20260422.3
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -236,7 +236,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 `Bluetooth and devices` -> `Touchpad` -> click `Touchpad`, it's a dropdown
 
-- turn on `Leave touchpad on when a mouse is connected`
+- turn off `Leave touchpad on when a mouse is connected` (default)
 
 `Bluetooth and devices` -> `Keyboard` -> `Shortcuts and hotkeys`
 
