@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260420.7
+v1.20260422.0
 ```
 
 Relevant as of `2026-04-15+0000`.
@@ -268,6 +268,14 @@ Please follow and apply the settings as written.
 
 - set `Hard disk` -> `Turn off hard disk after` -> `On battery (Minutes)` to `0`
 - set `Hard disk` -> `Turn off hard disk after` -> `Plugged in (Minutes)` to `0`
+- set `Desktop background settings` -> `Slide show` -> `On battery` to `Available`
+- set `Desktop background settings` -> `Slide show` -> `Plugged in` to `Available` (default)
+- set `Wireless Adapter Settings` -> `Power Saving Mode` -> `On battery` to `Medium Power Saving`
+- set `Wireless Adapter Settings` -> `Power Saving Mode` -> `Plugged in` to `Maximum Performance` (default)
+- set `Internet Explorer mode` -> `JavaScript Timer Frequency` -> `On battery` to `Maximum Performance`
+- set `Internet Explorer mode` -> `JavaScript Timer Frequency` -> `Plugged in` to `Maximum Performance`
+- set `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `On battery` to `Balanced`
+- set `Intel(R) Graphics Settings` -> `Intel(R) Graphics Power Plan` -> `Plugged in` to `Balanced`
 - set `Sleep` -> `Allow wake timers` -> `On battery` to `Disable` (default, may be hidden)
 - set `Sleep` -> `Allow wake timers` -> `Plugged in` to `Disable` (may be hidden)
 - set `USB settings` -> `USB selective suspend setting` -> `On battery` to `Disabled`
@@ -280,6 +288,19 @@ Please follow and apply the settings as written.
 - set `Processor power management` -> `Maximum processor state` -> `Plugged in` to `100` (default)
 - set `Processor power management` -> `System cooling policy` -> `On battery` to `Passive` (default)
 - set `Processor power management` -> `System cooling policy` -> `Plugged in` to `Active` (default)
+- set `Switchable Dynamic Graphics` -> `Global Settings` -> `On battery` to `Optimize power savings`
+- set `Switchable Dynamic Graphics` -> `Global Settings` -> `Plugged in` to `Optimize performance`
+- set `Multimedia settings` -> `When sharing media` -> `On battery` to `Prevent idling to sleep`
+- set `Multimedia settings` -> `When sharing media` -> `Plugged in` to `Prevent idling to sleep`
+- set `Multimedia settings` -> `Video quality playback bias` -> `On battery` to `Video playback power-saving bias`
+- set `Multimedia settings` -> `Video quality playback bias` -> `Plugged in` to `Video playback performance bias`
+- set `Multimedia settings` -> `When playing video` -> `On battery` to `Balanced`
+- set `Multimedia settings` -> `When playing video` -> `Plugged in` to `Optimize video quality`
+- set `Battery` -> `Critical battery action` -> `On battery` to `Hibernate` (default)
+- set `Battery` -> `Critical battery action` -> `Plugged in` to `Hibernate` (default)
+
+> [!TIP]
+> Leave as is the settings that are missing or hidden on your end.
 
 ## 4. Deep
 
