@@ -236,7 +236,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 `Bluetooth and devices` -> `Touchpad` -> click `Touchpad`, it's a dropdown
 
-- turn off `Leave touchpad on when a mouse is connected` (default)
+- turn off `Leave touchpad on when a mouse is connected`
 
 `Bluetooth and devices` -> `Keyboard` -> `Shortcuts and hotkeys`
 
