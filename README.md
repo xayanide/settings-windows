@@ -336,6 +336,9 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Automatically restart`
 - click `OK`
 
+> [!NOTE]
+> We turn it on because when your computer encounters a BSOD (Blue Screen of Death), it doesn't restart your computer by itself after a certain time. It helps letting you know that a BSOD actually happened and the error that caused it. 
+
 ### 4.4 Privacy and security
 
 `Privacy and security` -> `Recommendations and offers`
