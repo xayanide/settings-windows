@@ -19,9 +19,10 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 1.1 Windows Settings
 
-- Press and hold `Windows key` then press `i`.
+- press and hold `Windows key` then press `i`.
 
-Please follow and apply the settings as written.
+> [!NOTE]
+> Please follow and apply the settings below as exactly written.
 
 ## 2. Absolute Minimum
 
