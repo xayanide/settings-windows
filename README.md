@@ -380,6 +380,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 `System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Performance` -> `Settings...` -> `Performance Options` -> `Visual Effects`
 
 - select `Adjust for best performance` to toggle all of them off
+- turn on `Show shadows under windows`
 - turn on `Show thumbnails instead of icons`
 - turn on `Show translucent selection rectangle`
 - turn on `Show window contents while dragging`
@@ -398,7 +399,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > - [ ] `Fade out menu items after clicking`
 > - [ ] `Save taskbar thumbnail previews`
 > - [ ] `Show shadows under mouse pointer`
-> - [ ] `Show shadows under windows`
+> - [x] `Show shadows under windows`
 > - [x] `Show thumbnails instead of icons` (default)
 > - [x] `Show translucent selection rectangle` (default)
 > - [x] `Show window contents while dragging` (default)
