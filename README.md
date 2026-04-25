@@ -1,7 +1,7 @@
 # laptop-settings-windows-11
 
 ```plaintext
-v1.20260422.3
+v1.20260425.0
 ```
 
 Relevant as of `2026-04-15+0000`.
