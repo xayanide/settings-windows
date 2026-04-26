@@ -1,11 +1,11 @@
-# laptop-settings-windows-11
+# settings-windows-11-laptop
 
 ```plaintext
-v1.20260425.0
+v1.20260426.1
 ```
 
-Relevant as of `2026-04-15+0000`.
-At a minimum should work with
+Relevant as of `2026-04-15+0000`
+At a minimum should work with Desktops to Laptops
 
 ```plaintext
 Windows 11 Home 25H2 Build 26200.8037
@@ -13,7 +13,7 @@ Windows 11 Home 25H2 Build 26200.8037
 
 ## Purpose
 
-I wrote these so I have a quick reference for the changes I've been applying everytime on a fresh Windows install. Walang command line or registry edits, all within user interfaces lang. There are some default settings that are already good as is from a fresh install so they do not have to be modified. 
+I wrote these so I have a quick reference for the changes I've been applying everytime on a fresh Windows install. Walang command line or registry edits, all within user interfaces lang. There are some default settings that are already good as is from a fresh install so they do not have to be modified.
 
 ## 1. Getting Started
 
@@ -155,12 +155,12 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - set `Plugged in` to `Balanced` (default)
 - set `On battery` to `Balanced`
 
-`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `Plugged in`
+`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts` -> `Plugged in`
 
 - set `Turn my screen off after` to `Never`
 - set `Make my device sleep after` to `Never`
 
-`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts`  -> `On battery`
+`System` -> `Power and battery` -> `Screen, sleep, and hibernate timeouts` -> `On battery`
 
 - set `Turn my screen off after` to `Never`
 - set `Make my device sleep after` to `Never`
@@ -230,13 +230,9 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - click `OK`
 
 > [!NOTE]
-> We turn it off because when your computer encounters a BSOD (Blue Screen of Death), it doesn't restart your computer by itself after a certain time. It helps letting you know that a BSOD actually happened and the error that caused it. 
+> We turn it off because when your computer encounters a BSOD (Blue Screen of Death), it doesn't restart your computer by itself after a certain time. It helps letting you know that a BSOD actually happened and the error that caused it.
 
 ### 2.7 Bluetooth and devices
-
-`Bluetooth and devices` -> `Touchpad` -> click `Touchpad`, it's a dropdown
-
-- turn off `Leave touchpad on when a mouse is connected`
 
 `Bluetooth and devices` -> `Keyboard` -> `Shortcuts and hotkeys`
 
@@ -390,6 +386,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - click `OK`
 
 > It should look like this:
+>
 > - [ ] `Animate controls and elements inside windows`
 > - [ ] `Animate windows when minimizing and maximizing`
 > - [ ] `Animations in the taskbar`
@@ -419,6 +416,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 ### 6.1 Personalization
 
 `Personalization` -> `Taskbar` -> `Taskbar Behaviors`
+
 - set `Taskbar alignment` to `Left`
 
 ### 6.2 Old Right-click Context Menu
@@ -435,21 +433,24 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - press and hold `Windows` key then press `Tab`
 - around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
 
-## The Big Three Browsers
+## Popular Browsers
 
 ### 1. Google Chrome
 
-Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit)`
+Relevant as of `2026-04-26+0000`
+
+```plaintext
+Version 147.0.7727.117 (Official Build) (64-bit)
+```
 
 #### 1.1 Getting Started
 
-- go to `Google Chrome` -> `Top-right vertical three-dot icon` -> `Settings`
+- go to and click `Google Chrome` -> `Top-right vertical three-dot icon` -> `Settings`
 
 #### 1.2 Absolute Minimum
 
 - set `On startup` -> `On startup` to `Continue where you left off`
 - turn off `System` -> `Continue running background apps when Google Chrome is closed`
-- turn off `Autofill and passwords` -> `Autofill and passwords` -> `Google Password Manager` -> `Settings` -> `Settings` -> `Offer to save passwords and passkeys`
 
 #### 1.3 A Little Deeper
 
@@ -466,7 +467,11 @@ Relevant as of `2026-04-15+0000` `Version 147.0.7727.56 (Official Build) (64-bit
 
 ### 2. Microsoft Edge
 
-Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit)`
+Relevant as of `2026-04-26+0000`
+
+```plaintext
+Version 147.0.3912.86 (Official build) (64-bit)
+```
 
 #### 2.1 Getting Started
 
@@ -479,14 +484,13 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 - turn off `Background`
 - turn off `Show weather`
 
-- go to `Microsoft Edge` -> `Top-right horizontal three-dot icon` -> `Settings`
+- go to and click `Microsoft Edge` -> `Top-right horizontal three-dot icon` -> `Settings`
 
 #### 2.2 Absolute Minimum
 
 - turn off `System and performance` -> `System` -> `Startup boost`
 - turn off `System and performance` -> `System` -> `Continue running background extensions and apps when Edge is closed`
 - set `Start, home, and new tab page` -> `On startup` to `Open tabs from the previous session`
-- turn off `Passwords and autofill` -> `Passwords and autofill` -> `Microsoft Password Manager` -> `Ask to save passwords and passkeys`
 
 #### 2.3 A Little Deeper
 
@@ -503,17 +507,20 @@ Relevant as of `2026-04-15+0000` `Version 147.0.3912.60 (Official build) (64-bit
 
 ### 3. Mozilla Firefox
 
-Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
+Relevant as of `2026-04-26+0000`
+
+```plaintext
+150.0 (64-bit)
+```
 
 #### 3.1 Getting Started
 
-- go to `Mozilla Firefox` -> `Top-right horizontal three-line icon` -> `Settings`
+- go to and click `Mozilla Firefox` -> `Top-right horizontal three-line icon` -> `Settings`
 
 #### 3.2 Absolute Minimum
 
 - set `General` -> `Startup` to `Open previous windows and tabs`
 - turn on `AI Controls` -> `Block AI enhancements`
-- turn off `Privacy and Security` -> `Passwords` -> `Ask to save passwords`
 
 #### 3.3 A Little Deeper
 
@@ -522,6 +529,66 @@ Relevant as of `2026-04-15+0000` `149.0.2 (64-bit)`
 - turn off `Firefox Data Collection and Use` -> `Allow Firefox to improve features, performance, and stability between updates`
 - turn off `Firefox Data Collection and Use` -> `Send daily usage ping to Mozilla`
 
-#### 3.4 If You're Fine Not Having Smooth Scrolling
+### 4. Opera GX
 
-- turn off `General` -> `Browsing` -> `Use smooth scrolling`
+Relevant as of `2026-04-26+0000`
+
+```plaintext
+Update stream:Early Access
+Core:130.0.5847.89
+System:Windows 10 64-bit
+Chromium version:146.0.7680.201
+```
+
+#### 4.1 Getting Started
+
+- press and hold `CTRL` and `SHIFT`, then press `ESC`, let go. Opens Task Manager
+- turn off `Task Manager` -> `Startup` -> `Opera GX Internet Browser`
+- turn off `Task Manager` -> `Startup` -> `Opera GX Browser Assistant`
+
+- right-click `second icon at top-left after the Opera GX logo` -> click `Move GX Corner to sidebar`
+- go to and click `Opera GX` -> `bottom-middle gear icon` -> `Settings`
+
+#### 4.2 Absolute Minimum
+
+- turn off `FEATURES` -> `Run when my computer starts`
+- turn off `OPERA AI` -> `AI SERVICES` -> `Opera AI`
+- turn off `PRIVACY AND SECURITY` -> `PRIVACY AND SECURITY` -> `Privacy consent settings` -> `Help improve Opera by sending usage information`
+- turn off `PRIVACY AND SECURITY` -> `PRIVACY AND SECURITY` -> `Privacy consent settings` -> `Fetch images for suggested sources in News, based on history`
+- turn off `PRIVACY AND SECURITY` -> `PRIVACY AND SECURITY` -> `Privacy consent settings` -> `Display promotional notifications`
+- turn off `PRIVACY AND SECURITY` -> `PRIVACY AND SECURITY` -> `Privacy consent settings` -> `Receive promotional Speed Dials, bookmarks and compaigns`
+
+#### 4.3 A Little Deeper
+
+- turn off `LANGUAGES` -> `SPELL CHECK` -> `Check for spelling errors when you type text on web pages`
+- turn off `LANGUAGES` -> `SPELL CHECK` -> `Use spell check for` -> `English (United States)`
+
+### 5. Brave
+
+Relevant as of `2026-04-26+0000`
+
+```plaintext
+Brave 1.89.143 (Official Build) (64-bit)
+Chromium: 147.0.7727.117
+```
+
+#### 5.1 Getting Started
+
+- go to and click `Brave` -> `Top-right horizontal three-dot icon` -> `Settings`
+
+#### 5.2 Absolute Minimum
+
+- turn off `System` -> `System` -> `Continue running background apps when Brave is closed`
+- turn off `Get started` -> `System` -> `Continue running background apps when Brave is closed`
+- turn off `Get started ` -> `New Tab Page` -> `Customize new tab page` -> `Customize New Tab Page` -> `Show Background Images`
+- turn off `Search engine` -> `Search engine` -> `Improve search suggestions`
+
+#### 5.3 A Little Deeper
+
+- turn off `Languages` -> `Spell check` -> `Check for spelling errors when you type text on web pages`
+- turn off `Languages` -> `Spell check` -> `Use spell check for` -> `English (United States)`
+
+#### 5.4 If You're Fine Not Having Smooth Scrolling
+
+- `Brave` -> enter the URL `brave://flags/#smooth-scrolling`
+- set `Smooth Scrolling` to `Disabled`
