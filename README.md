@@ -421,7 +421,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 6.2 Old Right-click Context Menu
 
-- at File Explorer or Desktop, press and hold `SHIFT` then press `Right-click` on a blank space
+- at File Explorer or Desktop, press and hold `SHIFT`, press `Right-click` on a blank space, then let go
 
 > [!NOTE]
 > No registry edit needed.
@@ -430,7 +430,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 7.1 Task View
 
-- press and hold `Windows` key then press `Tab`
+- press and hold `WINDOWS` key, press `TAB`, then let go
 - around `+ New desktop`, check for Desktops you don't need. If you don't need them, delete it.
 
 ## Popular Browsers
