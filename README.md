@@ -122,7 +122,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 `Control Panel` -> `Hardware and Sound` -> `Power Options` -> `Choose what the power buttons do` -> `Change settings that are currently unavailable`
 
 - click `Yes` if prompted by `User Account Control`
-- turn off `Turn on fast startup (recommended)`
+- turn off `Shutdown settings` -> `Turn on fast startup (recommended)`
 - click `Save changes`
 
 > [!NOTE]
