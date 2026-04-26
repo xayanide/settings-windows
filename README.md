@@ -409,7 +409,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > Some websites and applications such as Discord, Chrome, Edge's `Smooth scrolling` defaults depend on `Animate controls and elements inside windows`, as a result it may turn off their `Smooth scrolling` too.
 
 > [!NOTE]
-> Keeping the functional visuals so that Windows doesn't look very old from that.
+> These keep the functional visuals so that Windows doesn't look very old from that.
 
 ## 6. Optionals: If You Want The Old Look
 
