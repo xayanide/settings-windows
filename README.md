@@ -589,7 +589,7 @@ Chromium: 147.0.7727.117
 
 - turn off `System` -> `System` -> `Continue running background apps when Brave is closed`
 - turn off `Get started` -> `System` -> `Continue running background apps when Brave is closed`
-- turn off `Get started ` -> `New Tab Page` -> `Customize new tab page` -> `Customize New Tab Page` -> `Show Background Images`
+- turn off `Get started` -> `New Tab Page` -> `Customize new tab page` -> `Customize New Tab Page` -> `Show Background Images`
 - turn off `Search engine` -> `Search engine` -> `Improve search suggestions`
 
 #### 5.3 A Little Deeper
