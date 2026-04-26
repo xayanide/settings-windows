@@ -313,7 +313,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - set `Battery` -> `Critical battery action` -> `Plugged in` to `Hibernate` (default)
 
 > [!TIP]
-> Leave as is the settings that are missing or hidden on your end.
+> Skip the settings that are missing or hidden on your end.
 
 ## 4. Deep
 
