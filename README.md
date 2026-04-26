@@ -545,8 +545,8 @@ Chromium version:146.0.7680.201
 ##### 4.1.1
 
 - press and hold `CTRL` and `SHIFT`, press `ESC`, then let go. Opens Task Manager
-- turn off `Task Manager` -> `Startup` -> `Opera GX Internet Browser`
-- turn off `Task Manager` -> `Startup` -> `Opera GX Browser Assistant`
+- `Task Manager` -> `Startup` -> right-click `Opera GX Internet Browser` -> click `Disable`
+- `Task Manager` -> `Startup` -> right-click `Opera GX Browser Assistant` -> click `Disable`
 
 ##### 4.1.2
 
