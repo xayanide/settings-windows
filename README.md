@@ -22,7 +22,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - press and hold `WINDOWS` key, press `i`, then let go
 
 > [!NOTE]
-> Please follow and apply the settings below as exactly written. The settings that are the quickest to do are the ones under `Absolute Minimum`, you may start by applying `Absolute Minimum` section settings (2.1 to 2.7) including the ones for browsers, then you can stop and use your PC as is. However, if you feel like you're ready to make a decision on the rest of the remaining settings, please take your time to work your way down.
+> Please follow and apply the settings below as exactly written. The settings that are the quickest to do are the ones under `Absolute Minimum` and `A Little Deeper` sections, you may start by applying the settings of those sections from 2.1 to 3.3, and apply only `Absolute Minimum` settings for browsers, then you can stop from there and use your PC as is. However, if you feel like you're ready to make a decision on the rest of the remaining settings, please take your time to work your way down.
 
 ## 2. Absolute Minimum
 
