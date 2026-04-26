@@ -119,7 +119,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 3. find it and open it or press `ENTER`
 4. at top-right, set `View by:` to `Category`
 
-`Control Panel` -> `Hardware and Sound` -> `Power Options` -> `Choose what the power buttons do` -> `Change settings that are currently unavailable` -> `User Account Control`
+go to and click `Control Panel` -> `Hardware and Sound` -> `Power Options` -> `Choose what the power buttons do` -> `Change settings that are currently unavailable` -> `User Account Control`
 
 - click `Yes` if prompted
 - turn off `Turn on fast startup (recommended)`
