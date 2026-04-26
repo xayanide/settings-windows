@@ -1,6 +1,11 @@
 # moved
 
-tries to be idempotent. because of that, network settings tweaks are excluded as devices use different network drivers
+tries to be idempotent.
+
+excluded:
+
+- network settings tweaks are excluded as devices use different network drivers.
+- widgets, pinned start menu items, pinned taskbar items, system trays, search web suggestions
 
 # removed-settings
 
