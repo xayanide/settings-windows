@@ -19,7 +19,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 1.1 Windows Settings
 
-- press and hold `Windows key` then press `i`
+- press and hold `WINDOWS` key, press `i`, then let go
 
 > [!NOTE]
 > Please follow and apply the settings below as exactly written.
@@ -86,7 +86,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Keyboard shortcut for Sticky keys`
 
 > [!NOTE]
-> Turn it off because it can cause accidental interruption when you press the `Shift` key quickly 5 times in a row anywhere. A regular user don't need it.
+> Turn it off because it can cause accidental interruption when you press the `SHIFT` key quickly 5 times in a row anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
 
@@ -94,7 +94,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Keyboard shortcut for Filter keys`
 
 > [!NOTE]
-> Turn it off because it can cause accidental interruption when you press and hold the right `Shift` key for 8 secs anywhere. A regular user don't need it.
+> Turn it off because it can cause accidental interruption when you press and hold the right `SHIFT` key for 8 secs anywhere. A regular user don't need it.
 
 `Accessibility` -> `Keyboard`
 
@@ -421,7 +421,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 6.2 Old Right-click Context Menu
 
-- at File Explorer or Desktop, press and hold `Shift` then press `Right-click` on a blank space
+- at File Explorer or Desktop, press and hold `SHIFT` then press `Right-click` on a blank space
 
 > [!NOTE]
 > No registry edit needed.
@@ -542,9 +542,13 @@ Chromium version:146.0.7680.201
 
 #### 4.1 Getting Started
 
-- press and hold `CTRL` and `SHIFT`, then press `ESC`, let go. Opens Task Manager
+##### 4.1.1
+
+- press and hold `CTRL` and `SHIFT`, press `ESC`, then let go. Opens Task Manager
 - turn off `Task Manager` -> `Startup` -> `Opera GX Internet Browser`
 - turn off `Task Manager` -> `Startup` -> `Opera GX Browser Assistant`
+
+##### 4.1.2
 
 - right-click `second icon at top-left after the Opera GX logo` -> click `Move GX Corner to sidebar`
 - go to and click `Opera GX` -> `bottom-middle gear icon` -> `Settings`
