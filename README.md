@@ -1,7 +1,7 @@
 # settings-windows-11-laptop
 
 ```plaintext
-v1.20260426.1
+v1.20260426.2
 ```
 
 Relevant as of `2026-04-15+0000`
@@ -566,6 +566,11 @@ Chromium version:146.0.7680.201
 
 - turn off `LANGUAGES` -> `SPELL CHECK` -> `Check for spelling errors when you type text on web pages`
 - turn off `LANGUAGES` -> `SPELL CHECK` -> `Use spell check for` -> `English (United States)`
+
+#### 4.4 If You're Fine Not Having Smooth Scrolling
+
+- `Brave` -> enter the URL `opera://flags/#smooth-scrolling`
+- set `Smooth Scrolling` to `Disabled`
 
 ### 5. Brave
 
