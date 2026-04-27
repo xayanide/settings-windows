@@ -1,7 +1,7 @@
 # settings-windows-11-laptop
 
 ```plaintext
-v1.20260427.1
+v1.20260427.2
 ```
 
 Relevant as of `2026-04-15+0000`
@@ -220,14 +220,15 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - set `Output settings` -> `Format` to `2 channels, 16 bit, 48000 Hz (DVD Quality)`
 - turn off `Advanced settings` -> `Audio enhancements`
 
-`System` -> `Sound` -> `Advanced` -> `More sound settings` -> `Sound` -> `Sound`
+`System` -> `Sound` -> `Advanced` -> `More sound settings` -> `Sound` -> `Sounds`
 
 - turn off `Program Events:` -> `Play Windows Startup sound`
 - click `OK`
 
-`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings...` -> `System failure`
+`System` -> `About` -> `Related links` -> `Advanced system settings` -> `System Properties` -> `Advanced` -> `Startup and Recovery` -> `Settings...` -> `Startup and Recovery` -> `System failure`
 
 - turn off `Automatically restart`
+- click `OK`
 - click `OK`
 
 > [!NOTE]
