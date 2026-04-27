@@ -243,7 +243,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 3.1 Personalization
 
-`Personalization` -> `Themes` -> `Related settings` -> `Desktop icon settings` -> `Desktop icons`
+`Personalization` -> `Themes` -> `Related settings` -> `Desktop Icon Settings` -> `Desktop Icons`
 
 - turn on `Desktop icons` -> `Computer` (default)
 - turn on `Desktop icons` -> `User's Files`
