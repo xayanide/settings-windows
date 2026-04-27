@@ -39,7 +39,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
 
-`Privacy and security` -> `Device encryption` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
+`Privacy and security` -> `Device encryption` -> `Related` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
 
 -> `Operating system drive`
 
