@@ -1,7 +1,7 @@
 # settings-windows-11-laptop
 
 ```plaintext
-v1.20260426.2
+v1.20260427.0
 ```
 
 Relevant as of `2026-04-15+0000`
@@ -80,7 +80,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 2.3 Accessibility
 
-`Accessibility` -> `Keyboard` -> click `Sticky keys`, it's a dropdown
+`Accessibility` -> `Interaction` -> `Keyboard` -> `Sticky, Filter, and Toggle keys` click `Sticky keys`, it's a dropdown
 
 - turn off `Sticky keys` (default)
 - turn off `Keyboard shortcut for Sticky keys`
@@ -88,7 +88,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!NOTE]
 > Turn it off because it can cause accidental interruption when you press the `SHIFT` key quickly 5 times in a row anywhere. A regular user don't need it.
 
-`Accessibility` -> `Keyboard` -> click `Filter keys`, it's a dropdown
+`Accessibility` -> `Interaction` -> `Keyboard` -> `Sticky, Filter, and Toggle keys` -> click `Filter keys`, it's a dropdown
 
 - turn off `Filter keys` (default)
 - turn off `Keyboard shortcut for Filter keys`
@@ -96,19 +96,20 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!NOTE]
 > Turn it off because it can cause accidental interruption when you press and hold the right `SHIFT` key for 8 secs anywhere. A regular user don't need it.
 
-`Accessibility` -> `Keyboard`
+`Accessibility` -> `Interaction` -> `Keyboard` -> `Sticky, Filter, and Toggle keys`
 
 - turn off `Toggle keys` (default)
 
-`Accessibility` -> `Narrator`
+`Accessibility` -> `Vision` -> `Use Narrator` -> `Narrator`
 
+- turn off `Narrator` (default)
 - turn off `Keyboard shortcut for Narrator`
 
-`Accessibility` -> `Mouse`
+`Accessibility` -> `Interaction` -> `Mouse`
 
 - turn off `Hide pointer while typing`
 
-`Accessibility` -> `Visual effects`
+`Accessibility` -> `Vision` -> `Visual effects`
 
 - turn on `Always show scrollbars`
 
@@ -167,7 +168,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 `System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `Plugged in`
 
-- set `Pressing the power button will make my PC` to `Do nothing`
+- set `Pressing the power button will make my PC` to `Sleep`
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
 
@@ -176,7 +177,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 `System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `On battery`
 
-- set `Pressing the power button will make my PC` to `Do nothing`
+- set `Pressing the power button will make my PC` to `Sleep`
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
 
