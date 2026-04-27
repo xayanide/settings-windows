@@ -1,7 +1,7 @@
 # settings-windows-11-laptop
 
 ```plaintext
-v1.20260427.0
+v1.20260427.1
 ```
 
 Relevant as of `2026-04-15+0000`
@@ -28,7 +28,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 2.1 Privacy and security
 
-`Privacy and security` -> `Device encryption`
+`Privacy and security` -> `Security` -> `Device encryption`
 
 - turn off `Device encryption`
 - click `Turn off`
@@ -39,7 +39,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
 
-`Privacy and security` -> `Device encryption` -> `Related` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
+`Privacy and security` -> `Security` -> `Device encryption` -> `Related` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
 
 -> `Operating system drive`
 
@@ -57,7 +57,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
 
-`Privacy and security` -> `Recall and snapshots`
+`Privacy and security` -> `Windows permissions` -> `Recall and snapshots`
 
 - turn off `Save snapshots`
 
@@ -334,7 +334,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 4.3 Privacy and security
 
-`Privacy and security` -> `Recommendations and offers`
+`Privacy and security` -> `Windows permissions` -> `Recommendations and offers`
 
 - turn off `Personalized offers`
 - turn off `Allow websites to access my language list`
@@ -342,24 +342,24 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 - turn off `Recommendations and offers in Settings`
 - turn off `Advertising ID`
 
-`Privacy and security` -> `Diagnostics and feedback`
+`Privacy and security` -> `Windows permissions` -> `Speech`
+
+- turn off `Online speech recognition`
+
+`Privacy and security` -> `Windows permissions` -> `Diagnostics and feedback`
 
 - turn off `Diagonostic data` -> `Send optional diagnostic data`
 - turn off `Improve inking and typing` -> `Improve the language recognition and suggestion capabilities of Microsoft apps and services by sending optional inking and typing diagnostic data to Microsoft`
 - turn off `View diagnostic data` -> `Turn on the Diagnostic Data Viewer (uses up to 1 GB of hard drive space)`
 
-`Privacy and security` -> `Speech`
-
-- turn off `Online speech recognition`
-
 ### 4.4 Windows Update
 
-`Windows Update` -> `More Options` -> `Advanced options`
+`Windows Update` -> `More options` -> `Advanced options`
 
 - turn off `Receive updates for other Microsoft products`
 - turn off `Get me up to date`
 
-`Windows Update` -> `More Options` -> `Additional options` -> `Delivery Optimization`
+`Windows Update` -> `More options` -> `Additional options` -> `Delivery Optimization`
 
 - turn off `Allow downloads from other devices`
 
@@ -416,7 +416,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 6.1 Personalization
 
-`Personalization` -> `Taskbar` -> `Taskbar Behaviors`
+`Personalization` -> `Taskbar` -> `Taskbar behaviors`
 
 - set `Taskbar alignment` to `Left`
 
