@@ -80,7 +80,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 ### 2.3 Accessibility
 
-`Accessibility` -> `Interaction` -> `Keyboard` -> `Sticky, Filter, and Toggle keys` click `Sticky keys`, it's a dropdown
+`Accessibility` -> `Interaction` -> `Keyboard` -> `Sticky, Filter, and Toggle keys` -> click `Sticky keys`, it's a dropdown
 
 - turn off `Sticky keys` (default)
 - turn off `Keyboard shortcut for Sticky keys`
