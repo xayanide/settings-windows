@@ -38,6 +38,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
+> Just don't let your laptop get stolen. With this off, they can pull the drive out and put it on their own machine to access your files. Same thing can be said for desktops.
 
 `Privacy and security` -> `Security` -> `Device encryption` -> `Related` -> `BitLocker drive encryption` -> `Control Panel` -> `System and Security` -> `BitLocker Drive Encryption`
 
@@ -56,6 +57,7 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 > [!WARNING]
 > Make sure to keep your laptop or computer turned on while it is decrypting your files, plug it in! You can still use it while it does that. Check its progress from time to time, completes the decryption much faster on SSDs.
+> Just don't let your laptop get stolen. With this off, they can pull the drive out and put it on their own machine to access your files. Same thing can be said for desktops.
 
 `Privacy and security` -> `Windows permissions` -> `Recall and snapshots`
 
