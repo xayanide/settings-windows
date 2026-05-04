@@ -1,7 +1,7 @@
 # settings-windows-11-laptop
 
 ```plaintext
-v1.20260427.2
+v1.20260504.0
 ```
 
 Relevant as of `2026-04-15+0000`
@@ -168,21 +168,15 @@ I wrote these so I have a quick reference for the changes I've been applying eve
 
 `System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `Plugged in`
 
-- set `Pressing the power button will make my PC` to `Sleep`
+- set `Pressing the power button will make my PC` to `Shutdown` (default)
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
-
-> [!NOTE]
-> Power button presses no longer shuts down to prevent accidental shut downs.
 
 `System` -> `Power and battery` -> `Lid, power and sleep button controls` -> `On battery`
 
-- set `Pressing the power button will make my PC` to `Sleep`
+- set `Pressing the power button will make my PC` to `Shutdown` (default)
 - set `Pressing the sleep button will make my PC` to `Sleep` (default)
 - set `Closing the lid will make my PC` to `Sleep` (default)
-
-> [!NOTE]
-> Power button presses no longer shuts down to prevent accidental shut downs.
 
 `System` -> `Clipboard`
 
